@@ -55,7 +55,7 @@ public class frame extends JFrame{
 				new Insets (1, 1, 1, 1), 2, 2));
 		add(p2, new GridBagConstraints(0, 4, 5, 4, 1, 1,
 				GridBagConstraints.SOUTH, GridBagConstraints.HORIZONTAL,
-				new Insets (1, 1, 1, 1), 0, 0));
+				new Insets (1, 1, 1, 2), 0, 0));
 		
 		p1.setLayout(new GridLayout(2, 1));
 		p2.setLayout(new GridBagLayout());
