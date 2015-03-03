@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 
 public class frame extends JFrame{
 
-	private static final long serialVersionUID = -4784268546166938995L;
+	private static final long serialVersionUID = -47842685166938995L;
 	
 	JButton b0, b1, b2, b3, b4, b5, b6, b7, b8, b9;
 	JButton plus, minus, equal, mult, pt, quot, symbol, backspace, clear;
