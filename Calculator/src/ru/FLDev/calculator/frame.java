@@ -77,7 +77,7 @@ public class frame extends JFrame{
 		p3.setBackground(new Color(236, 236, 236));
 		p4.setBackground(new Color(208, 208, 208));
 		p5.setBackground(new Color(208, 208, 208));
-		p6.setBackground(new Color(208, 206, 208));
+		p6.setBackground(new Color(208, 206, 218));
 		
 		p3.add(value1); p3.add(event); p3.add(value2); p3.add(result);		
 	
