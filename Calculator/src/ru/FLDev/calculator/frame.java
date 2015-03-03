@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 
 public class frame extends JFrame{
 
-	private static final long serialVersionUID = -47842685166938995L;
+	private static final long serialVersionUID = -478426856938995L;
 	
 	JButton b0, b1, b2, b3, b4, b5, b6, b7, b8, b9;
 	JButton plus, minus, equal, mult, pt, quot, symbol, backspace, clear;
@@ -77,7 +77,7 @@ public class frame extends JFrame{
 		p3.setBackground(new Color(236, 236, 236));
 		p4.setBackground(new Color(208, 208, 208));
 		p5.setBackground(new Color(208, 208, 208));
-		p6.setBackground(new Color(208, 206, 218));
+		p6.setBackground(new Color(208, 202, 218));
 		
 		p3.add(value1); p3.add(event); p3.add(value2); p3.add(result);		
 	
